@@ -1,6 +1,6 @@
 # Simple Testing Framework
 
-This repo is a working material for Medium's story: "[How to craft a simple testing framework?](how-to-craft-a-simple-testing-framework-1060e9e9ffa3)"
+This repo is a working material for Medium's story: "[How to craft a simple testing framework?](https://medium.com/@AlenVlahovljak/how-to-craft-a-simple-testing-framework-1060e9e9ffa3)"
 
 # Getting started
 
