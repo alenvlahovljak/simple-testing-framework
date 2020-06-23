@@ -15,6 +15,6 @@ To get the Node server running locally:
 
 ## Dependencies
 
-# Dev Dependencies
+### Dev Dependencies
 
 -  [jest](https://www.npmjs.com/package/jest) - Delightful JavaScript testing framework.
