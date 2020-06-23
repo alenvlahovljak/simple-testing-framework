@@ -9,7 +9,7 @@ To get the Node server running locally:
 -  Clone this repo
 -  `npm install` to install all required dependencies
 -  `npm test` to start Jest CLI and run all tests
--  `node __tests_/*` to run a specific test
+-  `node __tests_/tf_nodelib.test.js` to run a test with NodeJS native assertion library
 
 # Code Overview
 
