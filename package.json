@@ -1,0 +1,15 @@
+{
+	"name": "simple-testing-framework",
+	"version": "1.0.0",
+	"description": "Medium story material",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watchAll"
+	},
+	"author": "Alen Vlahovljak",
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {
+		"jest": "^26.0.1"
+	}
+}
